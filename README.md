@@ -1,7 +1,7 @@
 
 # 🌟 Lumina Engine
 
-Lumina Engine is an open-source, modular game engine and editor designed to empower developers with a powerful, flexible toolkit for creating high-performance games. Built on modern technologies and designed with extensibility in mind, Lumina Engine supports a variety of rendering techniques, making it suitable for both 2D and 3D game development.
+Lumina Engine is an open-source, modular game engine and editor built with Bend (Bevy + Rust). It’s designed to empower developers with a powerful, flexible toolkit for creating high-performance games. Leveraging modern technologies and designed with extensibility in mind, Lumina Engine supports a variety of rendering techniques, making it suitable for both 2D and 3D game development.
 
 
 
@@ -39,7 +39,7 @@ Prerequisites
 
 Before you begin, ensure you have the following installed:
 
--Rust: Installation Guide
+-Rust
 
 -Cargo
 
